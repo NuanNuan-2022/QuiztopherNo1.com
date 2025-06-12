@@ -1,0 +1,500 @@
+What is the capital of India?|Brasilia|Beijing|Berlin|New Delhi|D|easy
+What is the capital of Germany?|Beijing|Berlin|Washington|Rome|B|hard
+What is the capital of Brazil?|Brasilia|Washington|Rome|Berlin|A|easy
+What is the capital of Italy?|Rome|Washington|Ottawa|Berlin|A|easy
+What is the capital of USA?|Beijing|New Delhi|Brasilia|Washington|D|easy
+What is the capital of Brazil?|Brasilia|Beijing|Rome|Paris|A|easy
+What is the capital of France?|New Delhi|Berlin|Ottawa|Paris|D|easy
+What is the capital of USA?|Berlin|Washington|Ottawa|Paris|B|hard
+What is the capital of Italy?|Ottawa|New Delhi|Brasilia|Rome|D|easy
+What is the capital of USA?|Berlin|Beijing|Washington|Paris|C|easy
+What is the capital of France?|Beijing|New Delhi|Washington|Paris|D|medium
+What is the capital of Brazil?|Brasilia|Washington|Berlin|Beijing|A|easy
+What is the capital of Germany?|Washington|Ottawa|Berlin|Paris|C|easy
+What is the capital of China?|Brasilia|Rome|Beijing|Washington|C|easy
+What is the capital of Germany?|Paris|Berlin|Washington|New Delhi|B|medium
+What is the capital of USA?|Beijing|Washington|Rome|Berlin|B|medium
+What is the capital of Germany?|Berlin|Ottawa|Beijing|Paris|A|easy
+What is the capital of France?|Paris|Washington|Beijing|Ottawa|A|easy
+What is the capital of USA?|New Delhi|Washington|Berlin|Paris|B|easy
+What is the capital of USA?|Washington|Brasilia|Berlin|Paris|A|easy
+What is the capital of Germany?|Washington|Rome|Berlin|Beijing|C|easy
+What is the capital of France?|Berlin|Paris|Beijing|Washington|B|easy
+What is the capital of Germany?|Berlin|New Delhi|Washington|Rome|A|easy
+What is the capital of France?|Paris|Ottawa|Berlin|Beijing|A|easy
+What is the capital of Brazil?|Paris|Brasilia|Washington|New Delhi|B|easy
+What is the capital of Canada?|Ottawa|Brasilia|Berlin|Rome|A|easy
+What is the capital of USA?|Brasilia|Beijing|Ottawa|Washington|D|easy
+What is the capital of Italy?|Rome|Paris|Brasilia|Beijing|A|easy
+What is the capital of Germany?|Rome|Ottawa|Berlin|New Delhi|C|medium
+What is the capital of Italy?|Beijing|Washington|Rome|Brasilia|C|easy
+What is the capital of Germany?|Ottawa|Washington|Paris|Berlin|D|easy
+What is the capital of Italy?|Washington|Rome|Paris|Beijing|B|easy
+What is the capital of Germany?|Berlin|New Delhi|Washington|Ottawa|A|easy
+What is the capital of USA?|Paris|Ottawa|Washington|New Delhi|C|medium
+What is the capital of China?|Beijing|Berlin|Washington|Rome|A|easy
+What is the capital of Brazil?|Ottawa|Brasilia|Beijing|Paris|B|easy
+What is the capital of India?|New Delhi|Washington|Paris|Berlin|A|easy
+What is the capital of India?|Paris|Ottawa|New Delhi|Beijing|C|easy
+What is the capital of China?|Berlin|Beijing|Washington|Brasilia|B|easy
+What is the capital of USA?|Beijing|Washington|Paris|Berlin|B|hard
+What is the capital of France?|Brasilia|Paris|Beijing|Ottawa|B|hard
+What is the capital of Italy?|New Delhi|Paris|Beijing|Rome|D|easy
+What is the capital of France?|Ottawa|Paris|Beijing|Washington|B|hard
+What is the capital of India?|Washington|Paris|New Delhi|Beijing|C|easy
+What is the capital of Germany?|Berlin|Rome|Ottawa|Washington|A|medium
+What is the capital of Brazil?|Washington|New Delhi|Brasilia|Ottawa|C|easy
+What is the capital of Germany?|Ottawa|Brasilia|Washington|Berlin|D|easy
+What is the capital of Germany?|Berlin|Brasilia|Beijing|Rome|A|easy
+What is the capital of USA?|Paris|Rome|Brasilia|Washington|D|hard
+What is the capital of India?|Ottawa|Beijing|New Delhi|Washington|C|medium
+What is the capital of USA?|Brasilia|Paris|Washington|Berlin|C|medium
+What is the capital of Italy?|Berlin|Rome|New Delhi|Washington|B|easy
+What is the capital of China?|Beijing|Paris|Ottawa|New Delhi|A|easy
+What is the capital of Germany?|Berlin|Beijing|Ottawa|Rome|A|hard
+What is the capital of Germany?|Berlin|Rome|Beijing|New Delhi|A|medium
+What is the capital of Brazil?|Rome|Brasilia|Beijing|Ottawa|B|medium
+What is the capital of China?|Beijing|Berlin|Rome|New Delhi|A|easy
+What is the capital of China?|Brasilia|Washington|Beijing|Ottawa|C|easy
+What is the capital of USA?|Washington|New Delhi|Beijing|Ottawa|A|medium
+What is the capital of Canada?|Ottawa|Berlin|Rome|Paris|A|easy
+What is the capital of Germany?|Berlin|Paris|Brasilia|Beijing|A|easy
+What is the capital of Italy?|Rome|Ottawa|Berlin|Brasilia|A|easy
+What is the capital of China?|Paris|Beijing|New Delhi|Brasilia|B|hard
+What is the capital of India?|Ottawa|Brasilia|Berlin|New Delhi|D|easy
+What is the capital of USA?|Washington|Berlin|Brasilia|New Delhi|A|easy
+What is the capital of China?|Beijing|Ottawa|Berlin|Brasilia|A|easy
+What is the capital of Germany?|Berlin|Rome|New Delhi|Brasilia|A|medium
+What is the capital of USA?|Washington|Ottawa|Berlin|Paris|A|easy
+What is the capital of France?|Washington|Paris|New Delhi|Beijing|B|easy
+What is the capital of Canada?|New Delhi|Ottawa|Brasilia|Berlin|B|medium
+What is the capital of Italy?|Rome|Beijing|Ottawa|Paris|A|medium
+What is the capital of Germany?|Beijing|Ottawa|Berlin|Washington|C|hard
+What is the capital of China?|Ottawa|Beijing|New Delhi|Washington|B|medium
+What is the capital of France?|New Delhi|Ottawa|Rome|Paris|D|easy
+What is the capital of Germany?|Berlin|Beijing|Rome|New Delhi|A|easy
+What is the capital of Brazil?|Rome|Brasilia|Ottawa|Paris|B|easy
+What is the capital of France?|Brasilia|Paris|Rome|New Delhi|B|easy
+What is the capital of Brazil?|Brasilia|Washington|Berlin|Beijing|A|medium
+What is the capital of France?|Rome|Paris|Beijing|Berlin|B|medium
+What is the capital of Brazil?|Paris|Rome|Beijing|Brasilia|D|easy
+What is the capital of India?|Brasilia|Paris|Ottawa|New Delhi|D|medium
+What is the capital of Brazil?|Beijing|New Delhi|Brasilia|Berlin|C|easy
+What is the capital of Canada?|Paris|Ottawa|Beijing|Rome|B|easy
+What is the capital of China?|Ottawa|Beijing|Rome|Washington|B|easy
+What is the capital of USA?|Beijing|Washington|Ottawa|Brasilia|B|medium
+What is the capital of France?|Paris|Brasilia|Washington|Berlin|A|easy
+What is the capital of France?|Berlin|Paris|New Delhi|Rome|B|medium
+What is the capital of Canada?|Rome|New Delhi|Ottawa|Paris|C|easy
+What is the capital of China?|Beijing|Brasilia|Washington|New Delhi|A|medium
+What is the capital of Canada?|Rome|Ottawa|Beijing|New Delhi|B|easy
+What is the capital of Brazil?|Paris|Brasilia|New Delhi|Berlin|B|easy
+What is the capital of Canada?|Washington|Brasilia|Ottawa|Paris|C|hard
+What is the capital of Brazil?|Ottawa|Beijing|Brasilia|Rome|C|easy
+What is the capital of Canada?|Beijing|Paris|Ottawa|New Delhi|C|easy
+What is the capital of Canada?|Beijing|Ottawa|Brasilia|Washington|B|medium
+What is the capital of China?|Beijing|Berlin|Paris|Brasilia|A|medium
+What is the capital of Brazil?|Brasilia|New Delhi|Berlin|Washington|A|easy
+What is the capital of Brazil?|Brasilia|New Delhi|Berlin|Paris|A|easy
+What is the capital of Canada?|Washington|New Delhi|Ottawa|Paris|C|easy
+What is the capital of Germany?|Berlin|Washington|Brasilia|New Delhi|A|easy
+What is the capital of India?|New Delhi|Washington|Beijing|Berlin|A|easy
+What is the capital of Canada?|Brasilia|New Delhi|Beijing|Ottawa|D|easy
+What is the capital of India?|New Delhi|Berlin|Beijing|Rome|A|easy
+What is the capital of Canada?|Washington|Brasilia|Ottawa|Berlin|C|easy
+What is the capital of Canada?|Beijing|Ottawa|Berlin|Paris|B|easy
+What is the capital of India?|New Delhi|Paris|Rome|Beijing|A|easy
+What is the capital of India?|Washington|New Delhi|Brasilia|Berlin|B|easy
+What is the capital of Canada?|Rome|Washington|Ottawa|Paris|C|easy
+What is the capital of Italy?|Beijing|Rome|Berlin|New Delhi|B|easy
+What is the capital of China?|New Delhi|Beijing|Berlin|Ottawa|B|hard
+What is the capital of Canada?|Berlin|Rome|New Delhi|Ottawa|D|easy
+What is the capital of France?|Paris|Rome|Washington|Beijing|A|easy
+What is the capital of Canada?|Ottawa|Berlin|Brasilia|Rome|A|easy
+What is the capital of USA?|Paris|New Delhi|Rome|Washington|D|easy
+What is the capital of Brazil?|Brasilia|Berlin|Washington|Ottawa|A|easy
+What is the capital of India?|Rome|New Delhi|Paris|Beijing|B|easy
+What is the capital of Italy?|Berlin|Rome|Paris|Ottawa|B|easy
+What is the capital of India?|Brasilia|Paris|Rome|New Delhi|D|hard
+What is the capital of China?|Washington|Beijing|Rome|Brasilia|B|easy
+What is the capital of France?|Paris|Washington|New Delhi|Beijing|A|medium
+What is the capital of Italy?|Paris|Rome|Ottawa|Beijing|B|hard
+What is the capital of France?|Washington|Rome|New Delhi|Paris|D|easy
+What is the capital of China?|Beijing|Washington|Berlin|New Delhi|A|easy
+What is the capital of China?|Beijing|Ottawa|Washington|New Delhi|A|easy
+What is the capital of China?|Brasilia|Beijing|Berlin|Paris|B|easy
+What is the capital of China?|Berlin|Paris|Beijing|Rome|C|easy
+What is the capital of Germany?|Rome|Ottawa|Berlin|Washington|C|medium
+What is the capital of India?|Paris|New Delhi|Rome|Berlin|B|easy
+What is the capital of Canada?|Berlin|Rome|Paris|Ottawa|D|easy
+What is the capital of Brazil?|Washington|Berlin|New Delhi|Brasilia|D|easy
+What is the capital of France?|Beijing|Brasilia|Washington|Paris|D|easy
+What is the capital of France?|Rome|Berlin|Ottawa|Paris|D|easy
+What is the capital of China?|New Delhi|Berlin|Beijing|Rome|C|easy
+What is the capital of Brazil?|Rome|Paris|Berlin|Brasilia|D|easy
+What is the capital of USA?|Beijing|Washington|Rome|New Delhi|B|hard
+What is the capital of Brazil?|Beijing|Paris|Brasilia|Washington|C|easy
+What is the capital of USA?|Ottawa|Paris|Washington|Rome|C|easy
+What is the capital of Canada?|Beijing|Rome|New Delhi|Ottawa|D|easy
+What is the capital of Italy?|Brasilia|Berlin|Paris|Rome|D|medium
+What is the capital of Italy?|Washington|Rome|Brasilia|Paris|B|easy
+What is the capital of Brazil?|New Delhi|Ottawa|Brasilia|Paris|C|easy
+What is the capital of Italy?|Rome|Berlin|Beijing|New Delhi|A|easy
+What is the capital of Brazil?|Ottawa|Berlin|Brasilia|New Delhi|C|easy
+What is the capital of Italy?|Berlin|Ottawa|New Delhi|Rome|D|easy
+What is the capital of Italy?|Rome|Beijing|Paris|New Delhi|A|hard
+What is the capital of Brazil?|Brasilia|Beijing|New Delhi|Paris|A|easy
+What is the capital of France?|Brasilia|Berlin|New Delhi|Paris|D|easy
+What is the capital of France?|Paris|Rome|Berlin|Beijing|A|easy
+What is the capital of Canada?|Beijing|New Delhi|Rome|Ottawa|D|easy
+What is the capital of France?|Brasilia|New Delhi|Paris|Rome|C|easy
+What is the capital of Brazil?|Berlin|Rome|Brasilia|Beijing|C|easy
+What is the capital of Italy?|Berlin|Washington|Rome|Brasilia|C|medium
+What is the capital of China?|Beijing|New Delhi|Ottawa|Brasilia|A|medium
+What is the capital of USA?|Ottawa|Berlin|Rome|Washington|D|hard
+What is the capital of China?|Paris|Berlin|Brasilia|Beijing|D|medium
+What is the capital of Italy?|Rome|Ottawa|Beijing|Berlin|A|easy
+What is the capital of Germany?|Berlin|New Delhi|Washington|Beijing|A|easy
+What is the capital of China?|Washington|Brasilia|New Delhi|Beijing|D|easy
+What is the capital of Canada?|Beijing|Ottawa|Washington|Rome|B|hard
+What is the capital of Brazil?|Rome|New Delhi|Brasilia|Paris|C|easy
+What is the capital of Brazil?|Washington|New Delhi|Rome|Brasilia|D|easy
+What is the capital of India?|Berlin|Brasilia|New Delhi|Paris|C|easy
+What is the capital of Canada?|Berlin|Paris|Ottawa|Beijing|C|medium
+What is the capital of Brazil?|Brasilia|Berlin|New Delhi|Beijing|A|medium
+What is the capital of Germany?|Ottawa|Brasilia|Beijing|Berlin|D|medium
+What is the capital of Germany?|Berlin|Brasilia|Beijing|Rome|A|medium
+What is the capital of Italy?|Ottawa|Berlin|Rome|Washington|C|medium
+What is the capital of Germany?|Ottawa|Berlin|Brasilia|Washington|B|easy
+What is the capital of Canada?|New Delhi|Berlin|Brasilia|Ottawa|D|easy
+What is the capital of Brazil?|Beijing|Brasilia|Ottawa|Berlin|B|easy
+What is the capital of India?|New Delhi|Brasilia|Rome|Paris|A|medium
+What is the capital of India?|New Delhi|Rome|Berlin|Ottawa|A|medium
+What is the capital of France?|New Delhi|Washington|Berlin|Paris|D|easy
+What is the capital of Italy?|New Delhi|Rome|Ottawa|Brasilia|B|easy
+What is the capital of Germany?|Washington|Rome|Berlin|Brasilia|C|easy
+What is the capital of France?|Berlin|Paris|New Delhi|Washington|B|easy
+What is the capital of USA?|Rome|New Delhi|Beijing|Washington|D|easy
+What is the capital of Canada?|Washington|Rome|Beijing|Ottawa|D|hard
+What is the capital of Germany?|Paris|Rome|Berlin|Brasilia|C|easy
+What is the capital of USA?|Washington|Paris|New Delhi|Beijing|A|easy
+What is the capital of Canada?|New Delhi|Washington|Rome|Ottawa|D|easy
+What is the capital of Italy?|New Delhi|Paris|Beijing|Rome|D|easy
+What is the capital of USA?|Beijing|Paris|Brasilia|Washington|D|easy
+What is the capital of India?|New Delhi|Rome|Ottawa|Beijing|A|easy
+What is the capital of Italy?|Beijing|Washington|New Delhi|Rome|D|medium
+What is the capital of Italy?|Washington|Brasilia|Paris|Rome|D|medium
+What is the capital of Italy?|Paris|Rome|Beijing|Ottawa|B|hard
+What is the capital of Italy?|Ottawa|Washington|Rome|Berlin|C|easy
+What is the capital of France?|Beijing|New Delhi|Paris|Ottawa|C|easy
+What is the capital of USA?|Paris|Berlin|Beijing|Washington|D|easy
+What is the capital of Brazil?|Berlin|New Delhi|Brasilia|Rome|C|easy
+What is the capital of USA?|Rome|Washington|Berlin|New Delhi|B|medium
+What is the capital of India?|Rome|New Delhi|Washington|Berlin|B|hard
+What is the capital of USA?|Beijing|Washington|Rome|Brasilia|B|easy
+What is the capital of Germany?|Berlin|Ottawa|Paris|Rome|A|easy
+What is the capital of Brazil?|Paris|Washington|Berlin|Brasilia|D|hard
+What is the capital of Canada?|Ottawa|Paris|Berlin|Rome|A|hard
+What is the capital of Brazil?|Brasilia|Rome|Beijing|Ottawa|A|easy
+What is the capital of Brazil?|Rome|Brasilia|Washington|New Delhi|B|medium
+What is the capital of India?|New Delhi|Ottawa|Washington|Beijing|A|hard
+What is the capital of France?|Berlin|Beijing|Paris|Ottawa|C|easy
+What is the capital of France?|Paris|Beijing|Brasilia|Rome|A|easy
+What is the capital of China?|Paris|Beijing|Rome|Berlin|B|easy
+What is the capital of Germany?|Rome|Washington|Berlin|New Delhi|C|easy
+What is the capital of USA?|Berlin|Paris|Washington|New Delhi|C|easy
+What is the capital of Brazil?|Beijing|Rome|Washington|Brasilia|D|medium
+What is the capital of France?|Paris|Berlin|Washington|Beijing|A|medium
+What is the capital of China?|Brasilia|Beijing|Washington|Paris|B|medium
+What is the capital of USA?|New Delhi|Berlin|Paris|Washington|D|easy
+What is the capital of Brazil?|New Delhi|Paris|Brasilia|Berlin|C|easy
+What is the capital of Germany?|Ottawa|Berlin|New Delhi|Brasilia|B|easy
+What is the capital of India?|Ottawa|New Delhi|Paris|Brasilia|B|easy
+What is the capital of India?|New Delhi|Beijing|Ottawa|Rome|A|easy
+What is the capital of USA?|New Delhi|Washington|Ottawa|Beijing|B|easy
+What is the capital of India?|Beijing|Paris|Berlin|New Delhi|D|easy
+What is the capital of India?|Berlin|Ottawa|Brasilia|New Delhi|D|easy
+What is the capital of China?|Washington|Paris|Beijing|Berlin|C|easy
+What is the capital of China?|Ottawa|Rome|Beijing|Berlin|C|easy
+What is the capital of Germany?|New Delhi|Beijing|Washington|Berlin|D|easy
+What is the capital of France?|Washington|Brasilia|Paris|Ottawa|C|easy
+What is the capital of Canada?|Ottawa|New Delhi|Washington|Berlin|A|easy
+What is the capital of Canada?|Berlin|Paris|Ottawa|Beijing|C|easy
+What is the capital of China?|Ottawa|Berlin|Beijing|Paris|C|easy
+What is the capital of France?|Paris|Rome|Berlin|Ottawa|A|medium
+What is the capital of Italy?|Rome|New Delhi|Brasilia|Ottawa|A|easy
+What is the capital of Brazil?|Washington|Brasilia|Beijing|Paris|B|easy
+What is the capital of Brazil?|Washington|Berlin|Beijing|Brasilia|D|easy
+What is the capital of USA?|Rome|Paris|Washington|Berlin|C|easy
+What is the capital of Italy?|Washington|Beijing|Rome|Paris|C|medium
+What is the capital of Canada?|Ottawa|New Delhi|Brasilia|Washington|A|easy
+What is the capital of Italy?|Paris|New Delhi|Ottawa|Rome|D|easy
+What is the capital of Brazil?|Brasilia|Washington|New Delhi|Paris|A|hard
+What is the capital of France?|Paris|Ottawa|Beijing|New Delhi|A|medium
+What is the capital of India?|Paris|Rome|New Delhi|Beijing|C|easy
+What is the capital of India?|Washington|New Delhi|Brasilia|Rome|B|easy
+What is the capital of India?|Washington|Paris|New Delhi|Beijing|C|easy
+What is the capital of Canada?|Ottawa|Beijing|Washington|Berlin|A|medium
+What is the capital of Canada?|Beijing|Rome|Brasilia|Ottawa|D|easy
+What is the capital of Italy?|Berlin|Paris|Rome|Beijing|C|easy
+What is the capital of Italy?|Ottawa|Rome|Washington|Berlin|B|easy
+What is the capital of France?|Beijing|Paris|New Delhi|Ottawa|B|medium
+What is the capital of Italy?|Washington|Berlin|New Delhi|Rome|D|easy
+What is the capital of Canada?|Rome|Brasilia|Ottawa|New Delhi|C|easy
+What is the capital of France?|Beijing|Paris|New Delhi|Rome|B|easy
+What is the capital of USA?|Berlin|Brasilia|Washington|Beijing|C|easy
+What is the capital of Brazil?|Washington|Beijing|Berlin|Brasilia|D|easy
+What is the capital of France?|Brasilia|New Delhi|Rome|Paris|D|easy
+What is the capital of USA?|Paris|Washington|Ottawa|Rome|B|easy
+What is the capital of Brazil?|Paris|Beijing|Brasilia|Ottawa|C|easy
+What is the capital of USA?|Beijing|New Delhi|Washington|Berlin|C|easy
+What is the capital of Germany?|Washington|New Delhi|Berlin|Paris|C|hard
+What is the capital of Germany?|Berlin|Beijing|Rome|Brasilia|A|hard
+What is the capital of Brazil?|New Delhi|Berlin|Washington|Brasilia|D|easy
+What is the capital of India?|Brasilia|New Delhi|Washington|Berlin|B|easy
+What is the capital of China?|Brasilia|Rome|New Delhi|Beijing|D|easy
+What is the capital of China?|Berlin|New Delhi|Beijing|Brasilia|C|hard
+What is the capital of Germany?|New Delhi|Paris|Beijing|Berlin|D|easy
+What is the capital of USA?|Washington|New Delhi|Ottawa|Brasilia|A|easy
+What is the capital of India?|Washington|New Delhi|Paris|Ottawa|B|easy
+What is the capital of China?|Beijing|Rome|Ottawa|Berlin|A|easy
+What is the capital of India?|Rome|Beijing|New Delhi|Brasilia|C|easy
+What is the capital of Canada?|Rome|New Delhi|Ottawa|Washington|C|medium
+What is the capital of USA?|Rome|Ottawa|Washington|New Delhi|C|easy
+What is the capital of USA?|Washington|New Delhi|Ottawa|Rome|A|easy
+What is the capital of Canada?|New Delhi|Ottawa|Brasilia|Paris|B|easy
+What is the capital of India?|Washington|Rome|New Delhi|Brasilia|C|easy
+What is the capital of Germany?|Paris|Brasilia|Berlin|New Delhi|C|easy
+What is the capital of France?|Paris|Washington|New Delhi|Ottawa|A|easy
+What is the capital of USA?|Brasilia|Ottawa|Washington|Paris|C|easy
+What is the capital of India?|Washington|Paris|Rome|New Delhi|D|easy
+What is the capital of Canada?|Paris|Berlin|Ottawa|Washington|C|easy
+What is the capital of Germany?|Washington|New Delhi|Berlin|Ottawa|C|easy
+What is the capital of China?|Paris|Washington|Beijing|New Delhi|C|easy
+What is the capital of India?|New Delhi|Brasilia|Beijing|Ottawa|A|easy
+What is the capital of Italy?|Washington|Berlin|Ottawa|Rome|D|easy
+What is the capital of Canada?|Berlin|Ottawa|Paris|Brasilia|B|easy
+What is the capital of France?|Paris|Berlin|Washington|Rome|A|easy
+What is the capital of China?|Washington|Rome|Ottawa|Beijing|D|easy
+What is the capital of USA?|Washington|Ottawa|Berlin|Brasilia|A|easy
+What is the capital of Germany?|Beijing|Berlin|Ottawa|New Delhi|B|easy
+What is the capital of India?|Paris|Berlin|New Delhi|Rome|C|easy
+What is the capital of China?|Berlin|Beijing|Paris|New Delhi|B|medium
+What is the capital of Brazil?|Rome|Brasilia|Ottawa|Berlin|B|easy
+What is the capital of India?|New Delhi|Paris|Berlin|Ottawa|A|easy
+What is the capital of Brazil?|Ottawa|Brasilia|Paris|Washington|B|hard
+What is the capital of Canada?|New Delhi|Berlin|Ottawa|Washington|C|hard
+What is the capital of France?|Paris|Beijing|New Delhi|Rome|A|hard
+What is the capital of France?|New Delhi|Paris|Berlin|Brasilia|B|easy
+What is the capital of Canada?|Washington|Ottawa|Brasilia|Rome|B|easy
+What is the capital of USA?|Berlin|Beijing|Ottawa|Washington|D|hard
+What is the capital of India?|New Delhi|Ottawa|Rome|Brasilia|A|easy
+What is the capital of Canada?|Brasilia|Paris|Berlin|Ottawa|D|easy
+What is the capital of Germany?|Beijing|Washington|Berlin|Paris|C|hard
+What is the capital of Italy?|Berlin|Washington|Brasilia|Rome|D|medium
+What is the capital of France?|Paris|Washington|Berlin|Rome|A|easy
+What is the capital of Italy?|Paris|Rome|New Delhi|Washington|B|easy
+What is the capital of France?|Paris|Beijing|Ottawa|Brasilia|A|easy
+What is the capital of Germany?|Berlin|Beijing|Rome|Ottawa|A|easy
+What is the capital of China?|Washington|Brasilia|Beijing|Ottawa|C|easy
+What is the capital of Italy?|Washington|Rome|Beijing|New Delhi|B|easy
+What is the capital of Brazil?|Brasilia|New Delhi|Paris|Washington|A|hard
+What is the capital of Canada?|Ottawa|Rome|Beijing|Paris|A|easy
+What is the capital of Italy?|Brasilia|Rome|Paris|Berlin|B|easy
+What is the capital of Germany?|Rome|Paris|Ottawa|Berlin|D|easy
+What is the capital of Germany?|New Delhi|Berlin|Beijing|Ottawa|B|easy
+What is the capital of India?|New Delhi|Berlin|Ottawa|Rome|A|easy
+What is the capital of Italy?|Brasilia|Washington|Beijing|Rome|D|easy
+What is the capital of China?|New Delhi|Beijing|Rome|Berlin|B|medium
+What is the capital of India?|Brasilia|Washington|Berlin|New Delhi|D|easy
+What is the capital of Italy?|Rome|New Delhi|Brasilia|Paris|A|easy
+What is the capital of Brazil?|Beijing|Berlin|Paris|Brasilia|D|hard
+What is the capital of Canada?|New Delhi|Ottawa|Washington|Rome|B|hard
+What is the capital of Canada?|Berlin|Ottawa|Rome|Washington|B|easy
+What is the capital of India?|Paris|Brasilia|New Delhi|Washington|C|medium
+What is the capital of Brazil?|Brasilia|Washington|Beijing|New Delhi|A|easy
+What is the capital of Brazil?|Rome|Beijing|Brasilia|Berlin|C|medium
+What is the capital of Brazil?|Rome|Ottawa|New Delhi|Brasilia|D|easy
+What is the capital of India?|Washington|New Delhi|Paris|Rome|B|easy
+What is the capital of Brazil?|Ottawa|Berlin|New Delhi|Brasilia|D|easy
+What is the capital of France?|Ottawa|Paris|Berlin|New Delhi|B|easy
+What is the capital of Canada?|Washington|Rome|Ottawa|Berlin|C|easy
+What is the capital of Brazil?|Paris|Washington|Brasilia|Beijing|C|easy
+What is the capital of France?|Beijing|Paris|Washington|Rome|B|easy
+What is the capital of China?|Washington|Beijing|Paris|Brasilia|B|medium
+What is the capital of Germany?|Brasilia|Berlin|Ottawa|Paris|B|hard
+What is the capital of USA?|Beijing|Washington|Berlin|Brasilia|B|medium
+What is the capital of China?|Ottawa|Beijing|Washington|New Delhi|B|medium
+What is the capital of Germany?|New Delhi|Beijing|Rome|Berlin|D|easy
+What is the capital of Canada?|Ottawa|Beijing|Rome|Paris|A|easy
+What is the capital of France?|Beijing|Berlin|Washington|Paris|D|easy
+What is the capital of France?|New Delhi|Paris|Washington|Rome|B|easy
+What is the capital of Germany?|Berlin|Ottawa|Brasilia|Rome|A|easy
+What is the capital of France?|Rome|Berlin|Ottawa|Paris|D|easy
+What is the capital of Brazil?|Ottawa|Paris|Washington|Brasilia|D|easy
+What is the capital of Italy?|Ottawa|Berlin|Paris|Rome|D|easy
+What is the capital of India?|Brasilia|New Delhi|Berlin|Washington|B|easy
+What is the capital of Germany?|Rome|Brasilia|Berlin|Ottawa|C|medium
+What is the capital of India?|Ottawa|Paris|New Delhi|Berlin|C|easy
+What is the capital of Canada?|Ottawa|New Delhi|Beijing|Rome|A|medium
+What is the capital of France?|New Delhi|Paris|Brasilia|Washington|B|medium
+What is the capital of USA?|Paris|Brasilia|Berlin|Washington|D|medium
+What is the capital of Germany?|New Delhi|Paris|Ottawa|Berlin|D|easy
+What is the capital of India?|New Delhi|Beijing|Paris|Ottawa|A|easy
+What is the capital of Germany?|Berlin|Rome|Paris|Ottawa|A|easy
+What is the capital of China?|New Delhi|Beijing|Berlin|Rome|B|easy
+What is the capital of Italy?|Beijing|Washington|Rome|Ottawa|C|easy
+What is the capital of India?|New Delhi|Beijing|Rome|Washington|A|medium
+What is the capital of India?|Beijing|Berlin|Brasilia|New Delhi|D|medium
+What is the capital of Italy?|Rome|Washington|Paris|Brasilia|A|easy
+What is the capital of Italy?|New Delhi|Brasilia|Beijing|Rome|D|easy
+What is the capital of Italy?|Berlin|Ottawa|New Delhi|Rome|D|medium
+What is the capital of Canada?|Beijing|Ottawa|Rome|New Delhi|B|easy
+What is the capital of Italy?|Brasilia|New Delhi|Rome|Beijing|C|medium
+What is the capital of Germany?|Brasilia|Beijing|Rome|Berlin|D|easy
+What is the capital of France?|Berlin|Brasilia|Ottawa|Paris|D|medium
+What is the capital of USA?|Washington|Beijing|Rome|New Delhi|A|easy
+What is the capital of Brazil?|Brasilia|New Delhi|Paris|Berlin|A|hard
+What is the capital of India?|Berlin|New Delhi|Beijing|Paris|B|easy
+What is the capital of France?|New Delhi|Rome|Paris|Brasilia|C|easy
+What is the capital of India?|Brasilia|Washington|New Delhi|Ottawa|C|easy
+What is the capital of Canada?|Berlin|Paris|Brasilia|Ottawa|D|easy
+What is the capital of Italy?|New Delhi|Rome|Ottawa|Beijing|B|medium
+What is the capital of China?|Rome|Washington|Beijing|Ottawa|C|medium
+What is the capital of Germany?|New Delhi|Paris|Washington|Berlin|D|easy
+What is the capital of Canada?|Paris|Ottawa|Beijing|Brasilia|B|easy
+What is the capital of Brazil?|Berlin|New Delhi|Brasilia|Rome|C|medium
+What is the capital of China?|New Delhi|Beijing|Washington|Paris|B|easy
+What is the capital of China?|Beijing|Brasilia|Washington|New Delhi|A|easy
+What is the capital of Germany?|Beijing|Berlin|Washington|Paris|B|easy
+What is the capital of Canada?|Brasilia|New Delhi|Ottawa|Paris|C|easy
+What is the capital of Brazil?|Brasilia|Beijing|Ottawa|Berlin|A|medium
+What is the capital of Canada?|New Delhi|Ottawa|Paris|Beijing|B|easy
+What is the capital of Italy?|Washington|Brasilia|Rome|Berlin|C|hard
+What is the capital of USA?|Washington|Berlin|Paris|Beijing|A|easy
+What is the capital of China?|Beijing|New Delhi|Rome|Paris|A|hard
+What is the capital of France?|Brasilia|Washington|Beijing|Paris|D|easy
+What is the capital of Brazil?|Rome|Brasilia|Ottawa|Paris|B|easy
+What is the capital of Brazil?|Brasilia|Beijing|Rome|New Delhi|A|hard
+What is the capital of India?|Beijing|New Delhi|Brasilia|Washington|B|easy
+What is the capital of India?|Washington|Brasilia|New Delhi|Ottawa|C|easy
+What is the capital of China?|Berlin|Beijing|Washington|Ottawa|B|easy
+What is the capital of China?|New Delhi|Beijing|Rome|Brasilia|B|easy
+What is the capital of Brazil?|Ottawa|Brasilia|Paris|New Delhi|B|easy
+What is the capital of Canada?|Rome|Ottawa|Washington|Paris|B|medium
+What is the capital of India?|Berlin|Beijing|Rome|New Delhi|D|easy
+What is the capital of Italy?|Beijing|Brasilia|Berlin|Rome|D|easy
+What is the capital of India?|Rome|New Delhi|Ottawa|Paris|B|easy
+What is the capital of India?|Ottawa|Rome|Beijing|New Delhi|D|easy
+What is the capital of India?|Berlin|Paris|Ottawa|New Delhi|D|medium
+What is the capital of Brazil?|New Delhi|Washington|Brasilia|Ottawa|C|easy
+What is the capital of China?|Brasilia|Beijing|Berlin|Ottawa|B|easy
+What is the capital of Brazil?|Berlin|New Delhi|Brasilia|Beijing|C|easy
+What is the capital of Italy?|Ottawa|New Delhi|Beijing|Rome|D|easy
+What is the capital of Brazil?|Paris|Brasilia|Rome|Washington|B|easy
+What is the capital of Brazil?|Berlin|Beijing|Brasilia|Rome|C|easy
+What is the capital of France?|Berlin|Paris|Brasilia|Rome|B|easy
+What is the capital of USA?|Brasilia|Paris|Rome|Washington|D|easy
+What is the capital of USA?|New Delhi|Paris|Brasilia|Washington|D|easy
+What is the capital of Brazil?|Rome|Brasilia|Beijing|Berlin|B|medium
+What is the capital of Canada?|Beijing|Ottawa|Berlin|New Delhi|B|medium
+What is the capital of France?|Ottawa|Berlin|Brasilia|Paris|D|easy
+What is the capital of Canada?|Paris|New Delhi|Brasilia|Ottawa|D|easy
+What is the capital of USA?|Washington|Paris|Rome|Beijing|A|easy
+What is the capital of Canada?|Washington|Ottawa|Paris|Brasilia|B|easy
+What is the capital of India?|Beijing|Berlin|New Delhi|Rome|C|easy
+What is the capital of Italy?|Rome|Brasilia|Ottawa|Washington|A|medium
+What is the capital of Brazil?|Berlin|New Delhi|Brasilia|Paris|C|medium
+What is the capital of Italy?|Brasilia|Rome|Washington|Ottawa|B|easy
+What is the capital of Germany?|Brasilia|Rome|New Delhi|Berlin|D|easy
+What is the capital of Germany?|Beijing|New Delhi|Ottawa|Berlin|D|medium
+What is the capital of Germany?|Washington|Paris|Brasilia|Berlin|D|medium
+What is the capital of Germany?|New Delhi|Washington|Berlin|Paris|C|medium
+What is the capital of Canada?|Ottawa|Rome|Paris|Washington|A|easy
+What is the capital of France?|New Delhi|Rome|Paris|Berlin|C|medium
+What is the capital of India?|New Delhi|Brasilia|Paris|Rome|A|hard
+What is the capital of Canada?|New Delhi|Ottawa|Rome|Paris|B|medium
+What is the capital of China?|Paris|Berlin|Beijing|Washington|C|medium
+What is the capital of Canada?|Ottawa|New Delhi|Berlin|Paris|A|easy
+What is the capital of Brazil?|Brasilia|Beijing|Ottawa|Paris|A|easy
+What is the capital of Canada?|Berlin|Beijing|Ottawa|Rome|C|medium
+What is the capital of USA?|Paris|Ottawa|Beijing|Washington|D|easy
+What is the capital of Germany?|Berlin|New Delhi|Paris|Ottawa|A|easy
+What is the capital of Canada?|Brasilia|Ottawa|Washington|Paris|B|easy
+What is the capital of USA?|Brasilia|New Delhi|Rome|Washington|D|easy
+What is the capital of USA?|Berlin|Brasilia|Paris|Washington|D|medium
+What is the capital of India?|Rome|Berlin|Beijing|New Delhi|D|easy
+What is the capital of China?|Washington|Beijing|Paris|New Delhi|B|hard
+What is the capital of Germany?|Berlin|Washington|Rome|Paris|A|easy
+What is the capital of Germany?|New Delhi|Ottawa|Berlin|Rome|C|medium
+What is the capital of France?|Ottawa|New Delhi|Berlin|Paris|D|medium
+What is the capital of USA?|Paris|Beijing|Washington|Rome|C|easy
+What is the capital of Germany?|Berlin|New Delhi|Brasilia|Washington|A|easy
+What is the capital of France?|Beijing|Paris|Brasilia|New Delhi|B|easy
+What is the capital of Canada?|Beijing|Paris|Ottawa|Brasilia|C|easy
+What is the capital of France?|Paris|Washington|Berlin|Beijing|A|hard
+What is the capital of China?|Beijing|Brasilia|New Delhi|Paris|A|medium
+What is the capital of India?|New Delhi|Paris|Brasilia|Beijing|A|easy
+What is the capital of Brazil?|Brasilia|Ottawa|Paris|Beijing|A|easy
+What is the capital of India?|Beijing|Brasilia|Paris|New Delhi|D|easy
+What is the capital of France?|Beijing|Rome|Brasilia|Paris|D|easy
+What is the capital of China?|Washington|Beijing|Brasilia|Paris|B|hard
+What is the capital of France?|Ottawa|Rome|New Delhi|Paris|D|easy
+What is the capital of China?|Brasilia|Beijing|Washington|New Delhi|B|easy
+What is the capital of Germany?|New Delhi|Ottawa|Beijing|Berlin|D|medium
+What is the capital of Canada?|Washington|Berlin|Ottawa|Rome|C|medium
+What is the capital of China?|Beijing|Rome|New Delhi|Berlin|A|medium
+What is the capital of India?|Beijing|New Delhi|Paris|Brasilia|B|easy
+What is the capital of China?|Ottawa|Washington|Beijing|New Delhi|C|easy
+What is the capital of India?|Berlin|New Delhi|Paris|Washington|B|medium
+What is the capital of USA?|Rome|Berlin|Washington|Paris|C|easy
+What is the capital of Germany?|Rome|Beijing|Berlin|Washington|C|easy
+What is the capital of France?|Paris|Brasilia|Ottawa|Beijing|A|easy
+What is the capital of USA?|Ottawa|Washington|Brasilia|Rome|B|easy
+What is the capital of Italy?|Rome|Berlin|Ottawa|Paris|A|easy
+What is the capital of USA?|New Delhi|Paris|Washington|Ottawa|C|medium
+What is the capital of USA?|New Delhi|Paris|Washington|Berlin|C|hard
+What is the capital of Germany?|Paris|Berlin|New Delhi|Washington|B|medium
+What is the capital of China?|Paris|Rome|Berlin|Beijing|D|medium
+What is the capital of France?|Paris|Ottawa|Beijing|Rome|A|hard
+What is the capital of USA?|Ottawa|Washington|Paris|Berlin|B|easy
+What is the capital of China?|New Delhi|Paris|Beijing|Brasilia|C|easy
+What is the capital of France?|Rome|Paris|Beijing|New Delhi|B|medium
+What is the capital of Italy?|Ottawa|New Delhi|Beijing|Rome|D|hard
+What is the capital of Germany?|Paris|New Delhi|Washington|Berlin|D|easy
+What is the capital of Canada?|Berlin|Paris|Rome|Ottawa|D|medium
+What is the capital of France?|Paris|Berlin|Brasilia|Rome|A|easy
+What is the capital of Brazil?|Beijing|Paris|Rome|Brasilia|D|hard
+What is the capital of USA?|Washington|Rome|New Delhi|Brasilia|A|easy
+What is the capital of USA?|Beijing|Paris|Ottawa|Washington|D|easy
+What is the capital of USA?|Ottawa|Washington|Brasilia|Beijing|B|easy
+What is the capital of Italy?|Beijing|Paris|Washington|Rome|D|easy
+What is the capital of Germany?|Berlin|Beijing|Rome|New Delhi|A|easy
+What is the capital of France?|Ottawa|Paris|Rome|Washington|B|easy
+What is the capital of Brazil?|Berlin|Rome|Brasilia|Beijing|C|easy
+What is the capital of China?|Rome|Berlin|Brasilia|Beijing|D|easy
+What is the capital of China?|Berlin|Paris|Beijing|Rome|C|easy
+What is the capital of Italy?|Ottawa|New Delhi|Washington|Rome|D|easy
+What is the capital of France?|Paris|Ottawa|Beijing|New Delhi|A|easy
+What is the capital of USA?|Brasilia|Ottawa|Washington|Paris|C|easy
+What is the capital of Italy?|Beijing|New Delhi|Rome|Berlin|C|easy
+What is the capital of Italy?|Paris|Ottawa|Berlin|Rome|D|easy
+What is the capital of Brazil?|Washington|Beijing|Rome|Brasilia|D|easy
+What is the capital of Italy?|Rome|Beijing|Paris|New Delhi|A|medium
+What is the capital of India?|Rome|New Delhi|Ottawa|Washington|B|easy
+What is the capital of France?|Paris|Washington|Berlin|Ottawa|A|medium
+What is the capital of Brazil?|Brasilia|Berlin|Ottawa|Washington|A|easy
+What is the capital of France?|Washington|Ottawa|Paris|New Delhi|C|easy
+What is the capital of Italy?|Washington|Brasilia|Ottawa|Rome|D|easy
+What is the capital of Italy?|New Delhi|Ottawa|Rome|Beijing|C|easy
+What is the capital of Canada?|Berlin|Beijing|Ottawa|Washington|C|hard
+What is the capital of Italy?|Ottawa|Washington|Rome|New Delhi|C|hard
+What is the capital of USA?|Brasilia|Rome|Washington|Berlin|C|easy
+What is the capital of India?|New Delhi|Ottawa|Washington|Rome|A|easy
+What is the capital of Canada?|Rome|Paris|Ottawa|Beijing|C|easy
+What is the capital of France?|Paris|Beijing|Washington|Brasilia|A|easy
+What is the capital of Germany?|Rome|Ottawa|Berlin|Beijing|C|easy
+What is the capital of Germany?|Paris|New Delhi|Berlin|Rome|C|medium
+What is the capital of USA?|New Delhi|Washington|Paris|Berlin|B|easy
+What is the capital of India?|Berlin|Paris|New Delhi|Washington|C|medium
+What is the capital of France?|Beijing|Washington|New Delhi|Paris|D|easy
