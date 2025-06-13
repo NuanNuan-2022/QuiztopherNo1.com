@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +45,7 @@ fetch('questions.txt')
   .then(text => {
     const lines = text.trim().split('\n');
     allQuestions = lines.map(line => {
-      const [q, A, B, C, D, correct, diff] = line.split('|');
+      const [q, A, B, C, D, correct, diff] = line.split('|').map(s => s.trim());
       return {q, A, B, C, D, correct, diff};
     });
     document.getElementById('difficulty-select').style.display = 'block';
@@ -58,10 +57,18 @@ fetch('questions.txt')
 
 function startGame(difficulty) {
   selectedQuestions = allQuestions.filter(q => q.diff === difficulty);
+  if (selectedQuestions.length === 0) {
+    alert("No questions found for this difficulty level.");
+    location.reload();
+    return;
+  }
+
   selectedQuestions.sort(() => Math.random() - 0.5);
   correct = wrong = current = 0;
   document.getElementById('difficulty-select').style.display = 'none';
   document.getElementById('game').style.display = 'block';
+  document.getElementById('question-box').style.display = 'block';
+  document.getElementById('result-box').style.display = 'block';
   showQuestion();
 }
 
