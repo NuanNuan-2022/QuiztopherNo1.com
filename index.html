@@ -8,7 +8,7 @@
     h1 { text-align: center; }
     #game, #question-box, #result-box { display: none; margin-top: 20px; }
     .choice { display: block; margin: 5px 0; }
-    .btn { margin-top: 10px; padding: 10px; font-size: 16px; }
+    .btn { margin-top: 10px; padding: 10px; font-size: 16px; cursor: pointer; }
   </style>
 </head>
 <body>
@@ -25,10 +25,10 @@
 <div id="game">
   <div id="question-box">
     <h3 id="question"></h3>
-    <button class="choice" onclick="answer('A')" id="optA"></button>
-    <button class="choice" onclick="answer('B')" id="optB"></button>
-    <button class="choice" onclick="answer('C')" id="optC"></button>
-    <button class="choice" onclick="answer('D')" id="optD"></button>
+    <button class="choice" id="optA" onclick="answer('A')"></button>
+    <button class="choice" id="optB" onclick="answer('B')"></button>
+    <button class="choice" id="optC" onclick="answer('C')"></button>
+    <button class="choice" id="optD" onclick="answer('D')"></button>
   </div>
   <div id="result-box">
     <p>✅ Correct: <span id="correct">0</span></p>
@@ -38,60 +38,61 @@
 </div>
 
 <script>
-let allQuestions = [], current = 0, correct = 0, wrong = 0, selectedQuestions = [];
+let allQuestions = [];
+let selectedQuestions = [];
+let current = 0;
+let correct = 0;
+let wrong = 0;
 
+// Load questions.txt
 fetch('questions.txt')
-  .then(response => response.text())
+  .then(res => {
+    if (!res.ok) throw new Error("Could not load questions.txt");
+    return res.text();
+  })
   .then(text => {
     const lines = text.trim().split('\n');
     allQuestions = lines.map(line => {
-      const [q, A, B, C, D, correct, diff] = line.split('|').map(s => s.trim());
-      return {q, A, B, C, D, correct, diff};
+      const [q, A, B, C, D, correct, diff] = line.split('|');
+      return { q, A, B, C, D, correct, diff };
     });
     document.getElementById('difficulty-select').style.display = 'block';
   })
-  .catch(error => {
-    document.body.innerHTML = "<p style='color:red;'>Failed to load questions.txt</p>";
-    console.error(error);
+  .catch(err => {
+    document.body.innerHTML += "<p style='color:red;'>Error: " + err.message + "</p>";
+    console.error(err);
   });
 
 function startGame(difficulty) {
   selectedQuestions = allQuestions.filter(q => q.diff === difficulty);
-  if (selectedQuestions.length === 0) {
-    alert("No questions found for this difficulty level.");
-    location.reload();
-    return;
-  }
-
   selectedQuestions.sort(() => Math.random() - 0.5);
-  correct = wrong = current = 0;
+  current = correct = wrong = 0;
   document.getElementById('difficulty-select').style.display = 'none';
   document.getElementById('game').style.display = 'block';
-  document.getElementById('question-box').style.display = 'block';
   document.getElementById('result-box').style.display = 'block';
   showQuestion();
 }
 
 function showQuestion() {
   if (current >= selectedQuestions.length) {
-    alert("Quiz Over!\nCorrect: " + correct + "\nWrong: " + wrong);
+    alert(`Quiz finished!\n✅ Correct: ${correct}\n❌ Incorrect: ${wrong}`);
     location.reload();
     return;
   }
+
   const q = selectedQuestions[current];
   document.getElementById('question').textContent = q.q;
-  document.getElementById('optA').textContent = "A. " + q.A;
-  document.getElementById('optB').textContent = "B. " + q.B;
-  document.getElementById('optC').textContent = "C. " + q.C;
-  document.getElementById('optD').textContent = "D. " + q.D;
-  document.getElementById('remaining').textContent = selectedQuestions.length - current;
+  document.getElementById('optA').textContent = `A. ${q.A}`;
+  document.getElementById('optB').textContent = `B. ${q.B}`;
+  document.getElementById('optC').textContent = `C. ${q.C}`;
+  document.getElementById('optD').textContent = `D. ${q.D}`;
   document.getElementById('correct').textContent = correct;
   document.getElementById('wrong').textContent = wrong;
+  document.getElementById('remaining').textContent = selectedQuestions.length - current;
 }
 
 function answer(choice) {
-  const q = selectedQuestions[current];
-  if (choice === q.correct) {
+  if (choice === selectedQuestions[current].correct) {
     correct++;
   } else {
     wrong++;
